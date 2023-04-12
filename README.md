@@ -9,7 +9,7 @@
 |  2  | [**Bash Shortcuts**](#bash-shortcuts)            |
 |  3  | [**Bash Variables**](#bash-variables)            |
 |  4  | [**IO Redirection**](#io-redirection)            |
-|  5  | [**Directory Operations**](#directory-operations |
+|  5  | [**Directory Operations**](#directory-operations)|
 |  6  | [**ls Options**](#ls-options)                    |
 |  7  | [**Search Files**](#search-files)                |
 |  8  | [**File Operations**](#file-operations)          |
